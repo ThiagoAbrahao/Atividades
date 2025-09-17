@@ -1,15 +1,3 @@
-This is where I will place all my projects following a timeline of learning in order to maintain the organization of dates, evolution and the profile itself.☺️
+Algumas das atividades que eu fiz de alguns cursos independentes que eu fiz da Alura, Fundação Bradesco e afins.
 
-
-Aqui vai ser onde eu vou colocar todos os meus projetos seguindo uma linha temporal de aprendisagem a fim de manter a organização de datas, evolução e do proprio perfil.☺️
-
-
-
-
-
-
-
-
-
-
-
+Some of the activities I did from some independent courses I took from Alura, Fundação Bradesco and similar institutions.
